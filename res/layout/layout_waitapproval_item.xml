@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#fff"
+    android:orientation="horizontal"
+    android:layout_marginLeft="3dp"
+    android:padding="10dp" >
+
+    <RelativeLayout
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center_vertical"
+        android:layout_marginRight="5dp"
+        android:background="@drawable/shape_waitapproval_item_bg"
+        android:padding="10dp" >
+
+        <TextView
+            android:id="@+id/resummerName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="小王"
+            android:textColor="#f9f9f9"
+            android:textSize="14dp" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1" >
+
+        <TextView
+            android:id="@+id/resumeType"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginBottom="3dp"
+            android:text="小王的报销"
+            android:textSize="14dp" />
+
+        <TextView
+            android:id="@+id/resume_state"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/resumeType"
+            android:text="待审批"
+            android:textColor="#ff7f00"
+            android:textSize="14dp" />
+
+        <TextView
+            android:id="@+id/resumeTime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:text="10:38"
+            android:textColor="#d6cbc0"
+            android:textSize="14dp" />
+    </RelativeLayout>
+
+</LinearLayout>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:android_custom="http://schemas.android.com/apk/res/com.mo.mobileoffice"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/shape_loading_bg"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="20dp" >
+
+        <com.mo.mobileoffice.common.widget.RoundProgressBar
+            android:id="@+id/pb_progress"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android_custom:max="100"
+            android_custom:roundColor="@color/white"
+            android_custom:roundProgressColor="@color/default_blue"
+            android_custom:textColor="@color/white"
+            android_custom:roundWidth="5dp"
+            android_custom:textIsDisplayable="true" />
+
+        <TextView
+            android:id="@+id/tv_progress"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:textColor="@android:color/white"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/white" >
+
+        <ImageView
+            android:id="@+id/iv_left"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:clickable="true"
+            android:padding="5dp"
+            android:src="@drawable/ico_slidingmenu_togggle" />
+
+        <TextView
+            android:id="@+id/tv_center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:textSize="16sp" />
+
+        <ImageView
+            android:id="@+id/tv_right"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:clickable="true"
+            android:src="@drawable/ico_send"
+            android:padding="5dp" />
+    </RelativeLayout>
+
+    <FrameLayout
+        android:id="@+id/fragment_Container"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.25dp"
+        android:background="@color/radro_textcolor_unchecked" />
+
+    <RadioGroup
+        android:id="@+id/radioContainer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <RadioButton
+            android:id="@+id/radio_announce"
+            style="@style/radio"
+            android:drawableTop="@drawable/selector_announce_ico"
+            android:text="@string/radio_announce" />
+
+        <RadioButton
+            android:id="@+id/radio_approval"
+            style="@style/radio"
+            android:drawableTop="@drawable/selector_approval_ico"
+            android:text="@string/radio_approval" />
+
+        <RadioButton
+            android:id="@+id/radio_meeting_room"
+            style="@style/radio"
+            android:drawableTop="@drawable/selector_meeting_ico"
+            android:text="@string/radio_meeting_room" />
+
+        <RadioButton
+            android:id="@+id/radio_check_in"
+            style="@style/radio"
+            android:drawableTop="@drawable/selector_checkin_ico"
+            android:text="@string/radio_check_in" />
+    </RadioGroup>
+
+</LinearLayout>

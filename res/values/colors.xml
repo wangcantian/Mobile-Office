@@ -1,0 +1,39 @@
+<resources>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="default_background">#f2f2f2</color>
+    <color name="default_blue">#00ccff</color>
+    
+	<!-- radio -->
+    <color name="radio_textcolor_checked">#00ccff</color>
+    <color name="radro_textcolor_unchecked">#444444</color>
+    
+    <!-- announce -->
+    <color name="stroke_announce_listitem">#c9c9c9</color>
+    <color name="text_announce_anthor">#b3b3b3</color>
+    <color name="text_announce_content">#7f7f7f</color>
+    <color name="text_approval1">#fcda72</color>
+    <color name="text_approval2">#777777</color>
+    
+    <!-- titlebar -->
+    <color name="titlebar_textcolor_pressed">#7b7b7b</color>
+    
+    <!-- login -->
+    <color name="btn_login_pressed">#008dc5</color>
+    <color name="btn_login">#3cbbee</color>
+    
+    <!-- leftmenu -->
+    <color name="item_pressed_bg">#aaffffff</color>
+    <color name="deep_blue">#28303d</color>
+
+    <!-- pers_info -->
+    <color name="right_text_color">#606060</color>
+    
+    <!-- meeting -->
+    <color name="meeting_purple">#c00dba</color>
+    <color name="meeting_purple_pressed">#bf60bc</color>
+    <color name="meeting_gray">#a4a4a4</color>
+    <color name="btn_apply_gray">#c6c6c6</color>
+    <color name="meeting_content_gray">#4e4e4e</color>
+    <color name="meeting_detail_orange">#ffebcf</color>
+</resources>

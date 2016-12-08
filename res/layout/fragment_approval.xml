@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/default_background"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="180dp"
+        android:background="@drawable/bg_approval"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/tv_wait_approval"
+            style="@style/approval_text1"
+            android:drawableTop="@drawable/ico_wait_approval"
+            android:text="@string/wait_approval" />
+
+        <TextView
+            android:id="@+id/tv_send_approval"
+            style="@style/approval_text1"
+            android:drawableTop="@drawable/ico_send_approval"
+            android:text="@string/send_approval" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/tv_leave"
+            style="@style/approval_text2"
+            android:drawableTop="@drawable/ico_leave"
+            android:text="@string/leave" />
+
+        <TextView
+            android:id="@+id/tv_reimburse"
+            style="@style/approval_text2"
+            android:drawableTop="@drawable/ico_expense"
+            android:text="@string/expense" />
+
+        <TextView
+            android:id="@+id/tv_evection"
+            style="@style/approval_text2"
+            android:drawableTop="@drawable/ico_on_business"
+            android:text="@string/on_business" />
+    </LinearLayout>
+
+</LinearLayout>

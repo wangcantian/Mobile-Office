@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    
+    <!-- slidingMenu -->
+    <dimen name="shadow_width">15dp</dimen>
+    <dimen name="slidingmenu_offset">80dp</dimen>
+    
+    <!-- refreshView-->
+    <dimen name="header_textsize">12sp</dimen>
+     <dimen name="header_size">14dp</dimen>
+     
+     <dimen name="historyscore_tb">10dp</dimen>
+
+</resources>

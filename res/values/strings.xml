@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MobileOffice</string>
+    <string name="action_settings">MobileOffice</string>
+    <string name="request_exception">网络请求失败</string>
+    <string name="no_net">网络连接失败</string>
+    <string name="net_args_error">网络参数错误</string>
+    <string name="send_fail">发送失败</string>
+    <string name="send_success">发送成功</string>
+    <string name="ok">确定</string>
+    <string name="send">发送</string>
+    <string name="finish">完成</string>
+    <string name="cancel">取消</string>
+    <string name="warn">警告</string>
+    <string name="warn_off_line">你的账号在别的设备登陆过，请重新登陆</string>
+    <string name="pictrue">图片</string>
+    <string name="refresh">刷新</string>
+
+    <!-- radio text -->
+    <string name="radio_announce">公告</string>
+    <string name="radio_check_in">签到</string>
+    <string name="radio_approval">审批</string>
+    <string name="radio_meeting_room">会议室</string>
+
+    <!-- title_bar -->
+    <string name="left">返回</string>
+
+    <!-- refreshView -->
+    <string name="header_text">下拉刷新...</string>
+
+    <!-- approval -->
+    <string name="agree">同意</string>
+    <string name="refuse">拒绝</string>
+    <string name="wait_approval">待我审批</string>
+    <string name="send_approval">我发起的</string>
+    <string name="leave">请假</string>
+    <string name="expense">报销</string>
+    <string name="on_business">出差</string>
+    <string name="leave_type">请假类型</string>
+    <string name="please_select_not_null">请选择(必填)</string>
+    <string name="start_time">开始时间</string>
+    <string name="start_time2">开始时间：</string>
+    <string name="end_time">结束时间</string>
+    <string name="end_time2">结束时间：</string>
+    <string name="leave_day_num">请假天数\n(天)</string>
+    <string name="please_input_leave_day_num_not_null">请输入请假天数(必填)</string>
+    <string name="reason_for_leave">请假事由</string>
+    <string name="please_input_reason_for_leave_not_null">请输入请假事由(必填)</string>
+    <string name="place_of_evection">出差地点</string>
+    <string name="as_Guangdong_NanJing">如:广东、南京(必填)</string>
+    <string name="add_travel_details">+增加行程明细</string>
+    <string name="reimburse_details">报销明细</string>
+    <string name="delete">删除</string>
+    <string name="reimburse_amount">报销金额</string>
+    <string name="please_input_number_amount_not_more_than_6_digits">请输入数字(最高金额不超过6位数)</string>
+    <string name="reimburse_type">报销类别</string>
+    <string name="add_reimburse_details">+增加报销明细</string>
+    <string name="please_input_cost_detail_description">请输入费用明细描述</string>
+    <string name="procurement_funds_activity_funds">如:采购经费、活动经费(必填)</string>
+    <string name="zero">0</string>
+    <string name="total_reimburse_amount">总报销金额(元):</string>
+
+    <!-- refreshingView -->
+    <string name="refresh_header_text">下拉刷新</string>
+    <string name="refresh_header_release_to_text">松开刷新</string>
+    <string name="refresh_header_refreshing">正在刷新...</string>
+
+    <!-- login -->
+    <string name="login">登陆</string>
+    <string name="remember_pwd">记住密码</string>
+    <string name="input_username">请输入用户名</string>
+    <string name="input_pwd">请输入密码</string>
+    <string name="register">注册用户</string>
+    <string name="username_and_pwd_not_null">用户名或密码不能为空</string>
+
+    <!-- register -->
+    <string name="reg_new_user">注册新用户</string>
+    <string name="submit">提交</string>
+    <string name="reg_username">用户名：</string>
+    <string name="reg_password">密码：</string>
+    <string name="reg_password_again">确认密码：</string>
+    <string name="reg_email">邮箱：</string>
+    <string name="please_input_real_email">请输入正确的邮箱</string>
+    <string name="two_password_not_consistent">两次密码不一致</string>
+    <string name="userinfo_not_null">用户信息不能为空</string>
+
+    <!-- announce -->
+    <string name="all">全部</string>
+    <string name="unread">未读</string>
+    <string name="readed">已读</string>
+    <string name="send_anno">发公告</string>
+    <string name="hint_readstate">没有%1s信息</string>
+    <string name="hint_anno_title">公告标题</string>
+    <string name="hint_anno_content">公告内容</string>
+    <string name="anno_title_not_empty">公告标题不能为空</string>
+    <string name="anno_content_not_empty">公告内容不能为空</string>
+    <string name="is_delete_anoo">是否要删除该公告</string>
+
+    <!-- leftmenu -->
+    <string name="checkin_history">签到历史</string>
+    <string name="position">职务：%1s</string>
+
+    <!-- upload -->
+    <string name="sel_pic_count">已选择%1s张图片</string>
+    <string name="max_sel_pic_count">最多选择%1d张图片</string>
+    <string name="preview">预览(%1d)</string>
+    <string name="all_folders">所有文件夹</string>
+    <string name="all_pic">所有图片</string>
+    <string name="selected">已选择</string>
+    <string name="unselected">未选择</string>
+
+    <!-- dialog -->
+    <string name="loading">Loading...</string>
+    <string name="wait">Wait...</string>
+
+    <!-- personalInfo -->
+    <string name="i">我</string>
+    <string name="name">姓名</string>
+    <string name="sex">性别</string>
+    <string name="mobile">手机</string>
+    <string name="birthday">生日</string>
+    <string name="head_pic">头像</string>
+    <string name="username">用户名</string>
+    <string name="email">邮箱</string>
+    <string name="male">男</string>
+    <string name="female">女</string>
+    <string name="input_name">请输入姓名</string>
+    <string name="input_phone">请输入电话</string>
+    
+    <!-- meeting -->
+    <string name="floor">楼层</string>
+    <string name="floor2">楼层：%1s</string>
+    <string name="room">房间</string>
+    <string name="room2">房间：%1s</string>
+    <string name="state">状态</string>
+    <string name="state2">状态：%1s</string>
+    <string name="time">时间</string>
+    <string name="more">更多</string>
+    <string name="projector">投影仪</string>
+    <string name="have">有</string>
+  	<string name="none">无</string>
+  	<string name="WIFI">WIFI</string>
+  	<string name="air_conditioner">空调</string>
+  	<string name="max_people">可容纳人数</string>
+  	<string name="search_data">搜索日期：%1s</string>
+  	<string name="search_time">搜索时间：%1s</string>
+  	<string name="search_min_time">会议时限(分钟)：%1s</string>
+  	<string name="apply">申请</string>
+  	<string name="physics_info">物理信息</string>
+  	<string name="meeting_content">会议内容</string>
+  	<string name="meeting_detail">会议详情</string>
+  	<string name="apply_meeting">申请会议</string>
+  	<string name="hint_meeting_them">会议主题</string>
+  	<string name="hint_meeting_content">会议内容</string>
+  	<string name="hint_meeting_them2">会议主题：</string>
+  	<string name="hint_meeting_content2">会议内容：</string>
+  	<string name="meeting_approval">会议审批</string>
+  	<string name="search_by_time">按时间搜索</string>
+  	<string name="meeting_room">会议室</string>
+  	<string name="meeting_start_time">开始时间：%1s</string>
+  	<string name="meeting_end_time">结束时间：%1s</string>
+  	<string name="apply_info">申请人：%1s</string>
+  	<string name="approval_info">审批人：%1s</string>
+  	<string name="already_apply">已申请</string>
+  	<string name="not_approved">未审批</string>
+  	<string name="already_approval">已审批</string>
+  	<string name="carried_out">进行中</string>
+  	<string name="has_ended">已结束</string>
+  	<string name="please_select_floor">请选择楼层</string>
+  	<string name="please_select_room">请选择房间</string>
+  	<string name="please_select_start_time">请选择开始时间</string>
+  	<string name="start_time_not_equal_end">开始时间不能等于结束时间</string>
+  	<string name="start_time_not_greater_than_end">开始时间不能大于结束时间</string>
+  	<string name="meeting_title_or_content_not_empty">会议标题或内容布不能为空</string>
+  	<string name="please_check_time_info">请检查信息时间是否有误</string>
+  	<string name="free">空闲</string>
+  	<string name="occupy">占用</string>
+  	<string name="no_limit">不限制</string>
+  	<string name="num_L">%dL</string>
+  	<string name="meeting_appr_of">%1s的会议申请</string>
+  	<string name="my_meeting_apply">会议申请记录</string>
+  	<string name="meeting_content2">会议主题：</string>
+  	<string name="hint_approver">审批人：</string>
+  	<string name="hint_approval_view">审批意见：</string>
+  	<string name="hint_approval_state">审批情况：</string>
+  	
+  	<!-- checkin -->
+  	<string name="checkin_fail">签到失败</string>
+  	
+  	<!-- setting -->
+  	<string name="setting">设置</string>
+  	<string name="exit">退出</string>
+  	<string name="clear_cache">清除图片缓存</string>
+  	<string name="clear_cache_success">清除缓存成功</string>
+  	<string name="clear_cache_fail">清除缓存失败</string>
+  	
+</resources>
