@@ -25,45 +25,45 @@
 
 * 登陆
 
-![登陆](.\screenshot\pic1.png)
-![注册](.\screenshot\pic2.png)
-![个人信息](.\screenshot\pic18.png)
+![登陆](https://github.com/wangcantian/Mobile-Office/blob/master/screenshot/pic1.png)
+![注册](https://github.com/wangcantian/Mobile-Office/blob/master/screenshot/pic2.png)
+![个人信息](https://github.com/wangcantian/Mobile-Office/blob/master/screenshot/pic18.png)
 
 * 自定义图片选择器
 
-![图片选择器](.\screenshot\pic5.png)
+![图片选择器](https://github.com/wangcantian/Mobile-Office/blob/master/screenshot/pic5.png)
 
 * 公告
 
-![公告](.\screenshot\pic3.png)
-![公告详情](.\screenshot\pic6.png)
+![公告](https://github.com/wangcantian/Mobile-Office/blob/master/screenshot/pic3.png)
+![公告详情](https://github.com/wangcantian/Mobile-Office/blob/master/screenshot/pic6.png)
 
 * 审批
 
-![审批页](.\screenshot\pic7.png)
+![审批页](https://github.com/wangcantian/Mobile-Office/blob/master/screenshot/pic7.png)
 
 其中请假页
 
-![请假页](.\screenshot\pic8.png)
+![请假页](https://github.com/wangcantian/Mobile-Office/blob/master/screenshot/pic8.png)
 
 * 会议室
 
-![会议室](.\screenshot\pic9.png)
-![会议室条件筛选](.\screenshot\pic10.png)
-![会议室列表](.\screenshot\pic11.png)
-![会议室具体详情](.\screenshot\pic12.png)
+![会议室](https://github.com/wangcantian/Mobile-Office/blob/master/screenshot/pic9.png)
+![会议室条件筛选](https://github.com/wangcantian/Mobile-Office/blob/master/screenshot/pic10.png)
+![会议室列表](https://github.com/wangcantian/Mobile-Office/blob/master/screenshot/pic11.png)
+![会议室具体详情](https://github.com/wangcantian/Mobile-Office/blob/master/screenshot/pic12.png)
 
 * 签到
 
-![签到](.\screenshot\pic15.png)
-![签到地图显示](.\screenshot\pic16.png)
+![签到](https://github.com/wangcantian/Mobile-Office/blob/master/screenshot/pic15.png)
+![签到地图显示](https://github.com/wangcantian/Mobile-Office/blob/master/screenshot/pic16.png)
 
 * 侧边栏
 
-![侧边栏](.\screenshot\pic17.png)
+![侧边栏](https://github.com/wangcantian/Mobile-Office/blob/master/screenshot/pic17.png)
 
 * 管理员会议审批
 
-![会议审批](.\screenshot\pic13.png)
-![会议审批记录](.\screenshot\pic14.png)
+![会议审批](https://github.com/wangcantian/Mobile-Office/blob/master/screenshot/pic13.png)
+![会议审批记录](https://github.com/wangcantian/Mobile-Office/blob/master/screenshot/pic14.png)
 
