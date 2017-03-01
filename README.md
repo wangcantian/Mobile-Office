@@ -14,9 +14,9 @@
 * 侧边栏使用SlidingMenu开源库
 
 ### 技术文档
-* [设计文档](.\开发文档\设计文档.docx)
-* [需求规格说明书](.\开发文档\需求规格说明书.docx)
-* [用户操作手册](.\开发文档\用户操作手册.docx)
+* [设计文档](https://github.com/wangcantian/Mobile-Office/tree/master/开发文档/设计文档.docx)
+* [需求规格说明书](https://github.com/wangcantian/Mobile-Office/tree/master/开发文档/需求规格说明书.docx)
+* [用户操作手册](https://github.com/wangcantian/Mobile-Office/tree/master/开发文档/用户操作手册.docx)
 
 
 ### [项目的比赛演示视频](http://v.youku.com/v_show/id_XMjUyMzg0NjIwOA==.html?winzoom=1)
